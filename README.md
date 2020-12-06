@@ -1,5 +1,5 @@
-# Guide_oleg
- JavaScript Style Guide
+# Guide_oleg  JavaScript Style Guide
+
 
 #Форматирование
 
